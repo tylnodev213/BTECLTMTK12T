@@ -1,0 +1,15 @@
+C:\Users\laptop88\RiderProjects\BTECLTMTK12T\BTECLTMTK12T\bin\Debug\net6.0\BTECLTMTK12T.exe
+C:\Users\laptop88\RiderProjects\BTECLTMTK12T\BTECLTMTK12T\bin\Debug\net6.0\BTECLTMTK12T.deps.json
+C:\Users\laptop88\RiderProjects\BTECLTMTK12T\BTECLTMTK12T\bin\Debug\net6.0\BTECLTMTK12T.runtimeconfig.json
+C:\Users\laptop88\RiderProjects\BTECLTMTK12T\BTECLTMTK12T\bin\Debug\net6.0\BTECLTMTK12T.dll
+C:\Users\laptop88\RiderProjects\BTECLTMTK12T\BTECLTMTK12T\bin\Debug\net6.0\BTECLTMTK12T.pdb
+C:\Users\laptop88\RiderProjects\BTECLTMTK12T\BTECLTMTK12T\obj\Debug\net6.0\BTECLTMTK12T.csproj.AssemblyReference.cache
+C:\Users\laptop88\RiderProjects\BTECLTMTK12T\BTECLTMTK12T\obj\Debug\net6.0\BTECLTMTK12T.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laptop88\RiderProjects\BTECLTMTK12T\BTECLTMTK12T\obj\Debug\net6.0\BTECLTMTK12T.AssemblyInfoInputs.cache
+C:\Users\laptop88\RiderProjects\BTECLTMTK12T\BTECLTMTK12T\obj\Debug\net6.0\BTECLTMTK12T.AssemblyInfo.cs
+C:\Users\laptop88\RiderProjects\BTECLTMTK12T\BTECLTMTK12T\obj\Debug\net6.0\BTECLTMTK12T.csproj.CoreCompileInputs.cache
+C:\Users\laptop88\RiderProjects\BTECLTMTK12T\BTECLTMTK12T\obj\Debug\net6.0\BTECLTMTK12T.dll
+C:\Users\laptop88\RiderProjects\BTECLTMTK12T\BTECLTMTK12T\obj\Debug\net6.0\refint\BTECLTMTK12T.dll
+C:\Users\laptop88\RiderProjects\BTECLTMTK12T\BTECLTMTK12T\obj\Debug\net6.0\BTECLTMTK12T.pdb
+C:\Users\laptop88\RiderProjects\BTECLTMTK12T\BTECLTMTK12T\obj\Debug\net6.0\BTECLTMTK12T.genruntimeconfig.cache
+C:\Users\laptop88\RiderProjects\BTECLTMTK12T\BTECLTMTK12T\obj\Debug\net6.0\ref\BTECLTMTK12T.dll

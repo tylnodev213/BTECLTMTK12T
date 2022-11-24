@@ -1,0 +1,15 @@
+C:\Users\laptop88\RiderProjects\BTECLTMTK12T\Loop\bin\Debug\net6.0\Loop.exe
+C:\Users\laptop88\RiderProjects\BTECLTMTK12T\Loop\bin\Debug\net6.0\Loop.deps.json
+C:\Users\laptop88\RiderProjects\BTECLTMTK12T\Loop\bin\Debug\net6.0\Loop.runtimeconfig.json
+C:\Users\laptop88\RiderProjects\BTECLTMTK12T\Loop\bin\Debug\net6.0\Loop.dll
+C:\Users\laptop88\RiderProjects\BTECLTMTK12T\Loop\bin\Debug\net6.0\Loop.pdb
+C:\Users\laptop88\RiderProjects\BTECLTMTK12T\Loop\obj\Debug\net6.0\Loop.csproj.AssemblyReference.cache
+C:\Users\laptop88\RiderProjects\BTECLTMTK12T\Loop\obj\Debug\net6.0\Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laptop88\RiderProjects\BTECLTMTK12T\Loop\obj\Debug\net6.0\Loop.AssemblyInfoInputs.cache
+C:\Users\laptop88\RiderProjects\BTECLTMTK12T\Loop\obj\Debug\net6.0\Loop.AssemblyInfo.cs
+C:\Users\laptop88\RiderProjects\BTECLTMTK12T\Loop\obj\Debug\net6.0\Loop.csproj.CoreCompileInputs.cache
+C:\Users\laptop88\RiderProjects\BTECLTMTK12T\Loop\obj\Debug\net6.0\Loop.dll
+C:\Users\laptop88\RiderProjects\BTECLTMTK12T\Loop\obj\Debug\net6.0\refint\Loop.dll
+C:\Users\laptop88\RiderProjects\BTECLTMTK12T\Loop\obj\Debug\net6.0\Loop.pdb
+C:\Users\laptop88\RiderProjects\BTECLTMTK12T\Loop\obj\Debug\net6.0\Loop.genruntimeconfig.cache
+C:\Users\laptop88\RiderProjects\BTECLTMTK12T\Loop\obj\Debug\net6.0\ref\Loop.dll
