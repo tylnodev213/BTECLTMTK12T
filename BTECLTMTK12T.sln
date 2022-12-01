@@ -4,6 +4,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTECLTMTK12T", "BTECLTMTK12
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loop", "Loop\Loop.csproj", "{8D1320A0-2471-4848-9230-F38E0350896E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array_Function", "Array_Function\Array_Function.csproj", "{11C42F1F-B1B1-4018-ACD0-C3D547A5E588}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Struct", "Struct\Struct.csproj", "{11D598E4-FA91-43B0-B35B-83F192DB8300}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{8D1320A0-2471-4848-9230-F38E0350896E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D1320A0-2471-4848-9230-F38E0350896E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D1320A0-2471-4848-9230-F38E0350896E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11C42F1F-B1B1-4018-ACD0-C3D547A5E588}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11C42F1F-B1B1-4018-ACD0-C3D547A5E588}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11C42F1F-B1B1-4018-ACD0-C3D547A5E588}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11C42F1F-B1B1-4018-ACD0-C3D547A5E588}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11D598E4-FA91-43B0-B35B-83F192DB8300}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11D598E4-FA91-43B0-B35B-83F192DB8300}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11D598E4-FA91-43B0-B35B-83F192DB8300}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11D598E4-FA91-43B0-B35B-83F192DB8300}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
